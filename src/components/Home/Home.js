@@ -51,6 +51,12 @@ function Home() {
             rating={4}
             image='https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg'
           />
+          <Product
+            title='lehenga for Sneha'
+            price={3000}
+            rating={4}
+            image='https://cdn.deepmalaexports.com/AD-Diwali-1201-Heavy-Velvet-Indian-Bride-Wedding-Wear-Lehenga-Choli-Wholesale-Supplier.jpeg'
+          />
         </div>
         <div className='home__row'>
           <Product
